@@ -1,0 +1,11 @@
+<?php
+require_once("classes/InformationEntity.php");
+require_once("classes/InformationEntityException.php");
+require_once("classes/Commentary.php");
+require_once("classes/Notification.php");
+require_once("classes/Star.php");
+require_once("classes/Post.php");
+require_once("classes/Constellation.php");
+require_once("classes/ReportedError.php");
+require_once("classes/Intermediary.php");
+require_once("classes/Message.php");
